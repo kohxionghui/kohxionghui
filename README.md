@@ -14,7 +14,7 @@ Languages: JavaScript (p5.js), HTML/CSS (Learning).
 
 Specialties: How Computers Work, Object-Oriented Programming (OOP).
 
-My Setup: Custom Desktop - i7 13700, RTX 4070 | LG Gram Pro 16 OLED with RTX 3050 (2024) | M4 iPad Pro 11 (Remote Desktop capable) | Samsung S24 Ultra (Pocket Computer) | Moondrop Blessing 3 IEM (For Audio Clarity)
+My Setup: Custom Desktop - i7 13700, RTX 4070 | LG Gram Pro 16 OLED with RTX 3050 (Unplugged TDP - 35W) (2024) | M4 iPad Pro 11 (Remote Desktop capable) | Samsung S24 Ultra (Pocket Computer) | IEM - Moondrop Blessing 3 (For Audio Clarity)
 
 All Windows computers are maintained with emphasis on Up Time, with tools like HWiNFO64 for real-time hardware monitoring.
 
