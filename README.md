@@ -8,7 +8,7 @@ If I get a syntax error in my code, I will search it up, find out the issue and 
 
 If I get a Computer Error on my device, I will try my best to isolate the issue with proper HWInfo monitoring and solve it with a System State reset or system update be it hardware or software.
 
-🛠️ My Tech Stack & Tools
+🛠️ My Tech Stack and Tools
 
 Languages: JavaScript (p5.js), HTML/CSS (Learning).
 
