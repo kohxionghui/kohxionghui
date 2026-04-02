@@ -18,7 +18,7 @@ My Setup: Custom Desktop - i7 13700, RTX 4070 | LG Gram Pro 16 OLED with RTX 305
 
 All Windows computers are maintained with emphasis on Up Time, with tools like HWiNFO64 for real-time hardware monitoring.
 
-📖 My Philosophy - I believe that a tool is only truly ultilised when a user truly understands its purpose and its limitations. Software should be worthy of the hardware it runs on. And I will try to achieve that standard in my work as well. My journey has taken me from Digital Game Art to the Republic of Singapore Navy to a years Retail Associate experience at COURTS, and now to Computer Science, looking to always master the tools and knowledge that I am using.
+📖 My Philosophy - I believe that a tool is only truly ultilised when a user truly understands its purpose and its limitations. Software should be worthy of the hardware it runs on and I will try to achieve that standard in my work as well. My journey has taken me from Digital Game Art to the Republic of Singapore Navy to a years Retail Associate experience at COURTS, and now to Computer Science, looking to always master the tools and knowledge that I am using.
 
 Fun fact: 
 - I am a Tech Enthusiast that love to give consumer tech recommendations and advice
