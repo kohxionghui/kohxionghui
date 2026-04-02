@@ -23,4 +23,5 @@ All Windows computers are maintained with emphasis on Up Time, with tools like H
 Fun fact: 
 - I am a Tech Enthusiast that love to give consumer tech recommendations and advice
 - I was once serving aboard a Naval Vessel
+- I am currently also training as an Audio Engineer at my Local Church (One Covenant Church)
 - Hobbies: Analysing mobile consumer technology, Watching Movies and Series, Playing Naval Simulators
